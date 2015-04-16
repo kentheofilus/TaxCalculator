@@ -1,0 +1,24 @@
+c:\users\ken\documents\visual studio 2010\Projects\KPrayogoFinal\bin\Debug\KPrayogoFinal.exe
+c:\users\ken\documents\visual studio 2010\Projects\KPrayogoFinal\bin\Debug\KPrayogoFinal.pdb
+c:\users\ken\documents\visual studio 2010\Projects\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.Form1.resources
+c:\users\ken\documents\visual studio 2010\Projects\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.Properties.Resources.resources
+c:\users\ken\documents\visual studio 2010\Projects\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.csproj.GenerateResource.Cache
+c:\users\ken\documents\visual studio 2010\Projects\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.exe
+c:\users\ken\documents\visual studio 2010\Projects\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.pdb
+C:\Users\plab-107\Desktop\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.exe
+C:\Users\plab-107\Desktop\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.pdb
+C:\Users\plab-107\Desktop\KPrayogoFinal\bin\Debug\KPrayogoFinal.exe
+C:\Users\plab-107\Desktop\KPrayogoFinal\bin\Debug\KPrayogoFinal.pdb
+C:\Users\plab-107\Desktop\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.Form1.resources
+C:\Users\plab-107\Desktop\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.Properties.Resources.resources
+C:\Users\plab-107\Desktop\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.csproj.GenerateResource.Cache
+C:\Users\Ken\SkyDrive\Documents\UW\IS 320\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.exe
+C:\Users\Ken\SkyDrive\Documents\UW\IS 320\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.pdb
+C:\Users\Ken\SkyDrive\Documents\UW\IS 320\KPrayogoFinal\bin\Debug\KPrayogoFinal.exe
+C:\Users\Ken\SkyDrive\Documents\UW\IS 320\KPrayogoFinal\bin\Debug\KPrayogoFinal.pdb
+C:\Users\Ken\SkyDrive\Documents\UW\IS 320\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.Form1.resources
+C:\Users\Ken\SkyDrive\Documents\UW\IS 320\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.Properties.Resources.resources
+C:\Users\Ken\SkyDrive\Documents\UW\IS 320\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.csproj.GenerateResource.Cache
+C:\Users\Ken\SkyDrive\Documents\UW\IS 320\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.csprojResolveAssemblyReference.cache
+C:\Users\dell\OneDrive\Documents\UW\IS 320\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.exe
+C:\Users\dell\OneDrive\Documents\UW\IS 320\KPrayogoFinal\obj\x86\Debug\KPrayogoFinal.pdb
